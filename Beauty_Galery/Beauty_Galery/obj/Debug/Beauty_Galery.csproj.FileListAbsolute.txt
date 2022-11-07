@@ -1,0 +1,10 @@
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\bin\Debug\Beauty_Galery.exe.config
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\bin\Debug\Beauty_Galery.exe
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\bin\Debug\Beauty_Galery.pdb
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.csproj.AssemblyReference.cache
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.Form1.resources
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.Properties.Resources.resources
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.csproj.GenerateResource.cache
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.csproj.CoreCompileInputs.cache
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.exe
+D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.pdb
