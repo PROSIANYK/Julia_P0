@@ -8,3 +8,13 @@ D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Gal
 D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.csproj.CoreCompileInputs.cache
 D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.exe
 D:\Бред\ТРПЗ\Прога\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.pdb
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\bin\Debug\Beauty_Galery.exe.config
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\bin\Debug\Beauty_Galery.exe
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\bin\Debug\Beauty_Galery.pdb
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.csproj.AssemblyReference.cache
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.Form1.resources
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.Properties.Resources.resources
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.csproj.GenerateResource.cache
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.csproj.CoreCompileInputs.cache
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.exe
+D:\Бред\GITHUB\Julia_P\Beauty_Galery\Beauty_Galery\obj\Debug\Beauty_Galery.pdb
